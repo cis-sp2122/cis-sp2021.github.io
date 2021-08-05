@@ -37,14 +37,37 @@ Am 21.12.2021 um 16:00 Uhr (letzte Vorlesung 2021) findet eine Probeklausur stat
 
 # Syllabus
 
-| Datum  | Python             | Folien                                     | Hausaufgabe | Material |
-| :----- | :------------------| :------------------------------------------| :-----------|:---------|
-| 19.10  | Grundlagen         | Intro <br> Python basics <br> Python Tests | Git Intro   |          |
-| 21.10  | Grundlagen         | Git Intro                                  | HA 1        |          |      
-| 26.10  | Objektorientierung | Python Listen; Objektorientierung          | Git Intro   |          |
-
-
-
+| Datum  | Python               | Folien                                      | Hausaufgabe | Material |
+| :----- | :------------------  | :------------------------------------------ | :-----------|:---------|
+| 19.10  | Grundlagen           | Intro <br> Python basics <br> Python Tests  |             |          |
+| 21.10  | Grundlagen           | Einführung in Git                           | HA 1        |          |      
+| 26.10  | Objektorientierung   | Python Listen <br> Objektorientierung I     |             |          |
+| 28.10  | Objektorientierung   | Bespechung HA1                              | HA 2        |          |
+| 2.11   | Objektorientierung   | Objektorientierung II <br> Dokumentenklasse |             |          |
+| 4.11   | Objektorientierung   | Bespechung HA2                              | HA 3        |          |
+| 9.11   | Module und basic NLP | NLTK I                                      |             |          |
+| 11.11  | Module und basic NLP | Bespechung HA3                              | HA 4        |          |
+| 16.11  | Module und basic NLP | NLTK II <br> Spacy                          |             |          |
+| 18.11  | Module und basic NLP | Bespechung HA4                              | HA 5        |          |
+| 23.11  | Module und basic NLP | Syntax: POS tagging  <br> Crawling          |             |          |
+| 25.11  | Module und basic NLP | Bespechung HA5                              | HA 6        |          |
+| 30.11  | Module und basic NLP | Lexical Semantics: Wordnet                  |             |          |
+| 2.12   | Module und basic NLP | Bespechung HA6                              | HA 7        |          |
+| 7.12   | Module und basic NLP | Compositional Semantics: SRL, AMR, GKR      |             |          |
+| 9.12   | Module und basic NLP | Bespechung HA7                              | HA 8        |          |
+| 14.12  | Module und basic NLP | Document Semantics: tf-idf, search engine   |             |          |
+| 16.12  | Module und basic NLP | Bespechung HA8                              | HA 9        |          |
+| 21.12  |                      | Probeklausur                                |             |          |
+| 23.12  |                      | Bespechung HA9                              |             |          |
+| 11.1   | Machine Learning     | Supervised and Unsupervised Learning        |             |          |
+| 13.1   | Machine Learning     | Bespechung Probeklausur                     | HA10        |          |
+| 18.1   | Machine Learning     | Klassifikation; Naïve Bayes                 |             |          |
+| 20.1   | Machine Learning     | Bespechung HA10                             | HA11        |          |
+| 25.1   | Machine Learning     | KClustering; k-means.                       |             |          |
+| 27.1   | Machine Learning     | Bespechung HA11                             | HA12        |          |
+| 1.2    |                      | Zusammenfassung, QA Session                 |             |          |
+| 27.1   |                      | Bespechung HA12                             |             |          |
+| 27.1   |                      | Klausur                                     |             |          |
 
 
 
