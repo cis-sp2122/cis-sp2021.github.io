@@ -37,9 +37,9 @@ Am 21.12.2021 um 16:00 Uhr (letzte Vorlesung 2021) findet eine Probeklausur stat
 
 Syllabus
 
-| Datum | Python | Vorlesung | Übung  |
-| :------------- |:-------------|:-----|
-| 19.10      | Grundlagen | Intro, Python basics, Pyton Tests | Git Intro |
+| Datum  | Python     | Vorlesung                         | Übung     |
+| :----- | :----------| :---------------------------------| :---------|
+| 19.10  | Grundlagen | Intro, Python basics, Pyton Tests | Git Intro |
 
 
 
