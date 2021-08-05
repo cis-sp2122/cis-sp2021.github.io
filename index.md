@@ -12,6 +12,7 @@
 - Ort/Tutorat: Zoom
 
 Dozentin: Aikaterini-Lida (Katerina) Kalouli
+
 Tutoren: 
 Sie erreichen die Dozentin und die Tutoren unter:
 
@@ -72,7 +73,21 @@ Am 21.12.2021 um 16:00 Uhr (letzte Vorlesung 2021) findet eine Probeklausur stat
 
 
 
-
+<TABLE BORDER="1">
+<CAPTION>Example 2:  ROWSPAN</CAPTION>
+<TR>
+<TD ROWSPAN="4">Apples</TD> <TD>Bananas</TD> <TD ROWSPAN="4">Cherries</TD>
+</TR>
+<TR>
+<TD>Nectarines</TD>
+</TR>
+<TR>
+<TD>Oranges</TD>
+</TR>
+<TR>
+<TD>Papaya</TD>
+</TR>
+</TABLE>
 
 
 
