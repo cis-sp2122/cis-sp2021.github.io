@@ -103,9 +103,78 @@ Am 21.12.2021 um 16:00 Uhr (letzte Vorlesung 2021) findet eine Probeklausur stat
   </TR>
   <TR>
     <td> 4.11 </td> <TD> Bespechung HA2 </TD> <TD>HA 3</TD> <TD></TD>
+    </TR>    
+  <TR>
+    <TD> 9.11 </td> <TD ROWSPAN="12">Module und basic NLP</TD> <TD>NLTK I  </TD> <TD></TD> <TD></TD>
   </TR>
-    
+  <TR>
+    <td> 11.11 </td> <TD> Bespechung HA3 </TD> <TD>HA 4</TD> <TD></TD>
+  </TR>
+  <TR>
+    <td> 16.11 </td> <TD> NLTK II <br> Spacy </TD> <TD></TD> <TD></TD>
+  </TR>
+  <TR>
+    <td> 18.11 </td> <TD> Bespechung HA4 </TD> <TD>HA 5</TD> <TD></TD>
+  </TR>
+  <TR>
+    <td> 23.11 </td> <TD> Syntax: POS tagging  <br> Crawling </TD> <TD></TD> <TD></TD>
+  </TR>
+  <TR>
+    <td> 25.11 </td> <TD> Bespechung HA5 </TD> <TD>HA 6</TD> <TD></TD>
+  </TR>
+  <TR>
+    <td> 30.11 </td> <TD> Lexical Semantics: Wordnet </TD> <TD></TD> <TD></TD>
+  </TR>
+  <TR>
+    <td> 2.12 </td> <TD> Bespechung HA6 </TD> <TD>HA 7</TD> <TD></TD>
+  </TR>
+  <TR>
+    <td> 7.12 </td> <TD> Compositional Semantics: SRL, AMR, GKR </TD> <TD></TD> <TD></TD>
+  </TR>
+  <TR>
+    <td> 9.12 </td> <TD> Bespechung HA7 </TD> <TD>HA 8</TD> <TD></TD>
+  </TR>
+  <TR>
+    <td> 14.12 </td> <TD> Document Semantics: tf-idf, search engine </TD> <TD></TD> <TD></TD>
+  </TR>
+  <TR>
+    <td> 16.12 </td> <TD> Bespechung HA8 </TD> <TD>HA 9</TD> <TD></TD>
+  </TR>
+  <TR>
+    <td> 21.12 </td> <TD> Probeklausur </TD> <TD></TD> <TD></TD>
+  </TR>
+  <TR>
+    <td> 23.12 </td> <TD> Bespechung HA9 </TD> <TD></TD> <TD></TD>
+  </TR>
+  <TR>
+    <TD> 11.1 </td> <TD ROWSPAN="6">Machine Learning</TD> <TD> Supervised and Unsupervised Learning  </TD> <TD></TD> <TD></TD>
+  </TR>
+  <TR>
+    <td> 13.1 </td> <TD> Bespechung Probeklausur </TD> <TD>HA 10</TD> <TD></TD>
+  </TR>
+  <TR>
+    <td> 18.1 </td> <TD> Klassifikation; Naïve Bayes </TD> <TD></TD> <TD></TD>
+  </TR>
+  <TR>
+    <td> 20.1 </td> <TD> Bespechung HA10 </TD> <TD>HA 11</TD> <TD></TD>
+  </TR>
+   <TR>
+    <td> 25.1 </td> <TD> Clustering; k-means </TD> <TD></TD> <TD></TD>
+  </TR>
+  <TR>
+    <td> 27.1 </td> <TD> Bespechung HA11 </TD> <TD>HA 12</TD> <TD></TD>
+  </TR>
+  <TR>
+    <TD> 1.2 </td> <TD></TD> <TD> Zusammenfassung, QA Session  </TD> <TD></TD> <TD></TD>
+  </TR>
+  <TR>
+    <TD> 3.2 </td> <TD></TD> <TD> Bespechung HA12   </TD> <TD></TD> <TD></TD>
+  </TR>
+   <TR>
+    <TD> 8.2 </td> <TD></TD> <TD> Klausur   </TD> <TD></TD> <TD></TD>
+  </TR>  
 </TABLE>
+  
     
    
 
