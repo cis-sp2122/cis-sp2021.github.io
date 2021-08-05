@@ -1,7 +1,7 @@
-## Symbolische Programmierung - Python Kurs (Wintersemester 2021/2022)
+# Symbolische Programmierung - Python Kurs (Wintersemester 2021/2022)
 
 
-# Centrum für Informations- und Sprachverarbeitung, LMU München
+## Centrum für Informations- und Sprachverarbeitung, LMU München
 - Zeit/Vorlesung: Di 16:00-18-00 (c.t.)
 - Ort/Vorlesung: Zoom
 
@@ -18,11 +18,11 @@ Sie erreichen die Dozentin und die Tutoren unter:
 sp2122 [at] cis [dot] uni [minus] muenchen [dot] de
 
 
-# Klausur
+## Klausur
 Die Klausur zur Vorlesung findet am Di. 8.2.2022 um 16:00 statt und dauert 45 Minuten.
 
 
-# Verschiedenes
+## Verschiedenes
 Übungen sollen in Gruppen aus 2 oder 3 Teilnehmern bearbeitet werden. Hierzu benötigen alle Gruppenmitglieder einen gültigen Gitlab-Account des IFI. Mehr Informationen finden Sie <a href="https://www.rz.ifi.lmu.de/infos/gitlab_de.html"> hier </a>. Gruppen können sich über das Webformular anmelden.
 
 Zur eigenständigen Vertiefung der Python-Grundkenntnisse wird dieses Online-Tutorial empfohlen: <a href="https://www.python-course.eu/python3_course.php"> Python Course </a>
@@ -33,6 +33,15 @@ Am 21.12.2021 um 16:00 Uhr (letzte Vorlesung 2021) findet eine Probeklausur stat
 
 
 # Frequently asked questions
+
+
+Syllabus
+
+| Datum | Python | Vorlesung | Übung  |
+| :------------- |:-------------|:-----|
+| 19.10      | Grundlagen | Intro, Python basics, Pyton Tests | Git Intro |
+
+
 
 
 
