@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+## Symbolische Programmierung - Python Kurs (Wintersemester 2021/2022)
 
-You can use the [editor on GitHub](https://github.com/cis-sp2122/cis-sp2021.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Centrum für Informations- und Sprachverarbeitung, LMU München
+- Zeit/Vorlesung: Di 16:00-18-00 (c.t.)
+- Ort/Vorlesung: Zoom
 
-### Markdown
+- Zeit/Übung: Do 16:00-18:00 (c.t.)
+- Ort/Übung: Zoom
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Zeit/Tutorat: Fr 10:00-12:00 (c.t.)
+- Ort/Tutorat: Zoom
 
-```markdown
-Syntax highlighted code block
+Dozentin: Aikaterini-Lida (Katerina) Kalouli
+Tutoren: 
+Sie erreichen die Dozentin und die Tutoren unter:
 
-# Header 1
-## Header 2
-### Header 3
+sp2122 [at] cis [dot] uni [minus] muenchen [dot] de
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+# Klausur
+Die Klausur zur Vorlesung findet am Di. 8.2.2022 um 16:00 statt und dauert 45 Minuten.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+# Verschiedenes
+Übungen sollen in Gruppen aus 2 oder 3 Teilnehmern bearbeitet werden. Hierzu benötigen alle Gruppenmitglieder einen gültigen Gitlab-Account des IFI. Mehr Informationen finden Sie <a href="https://www.rz.ifi.lmu.de/infos/gitlab_de.html"> hier </a>. Gruppen können sich über das Webformular anmelden.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Zur eigenständigen Vertiefung der Python-Grundkenntnisse wird dieses Online-Tutorial empfohlen: <a href="https://www.python-course.eu/python3_course.php"> Python Course </a>
 
-### Jekyll Themes
+Es wird empfohlen die Entwicklungsumgebung <a href="https://www.jetbrains.com/pycharm/"> PyCharm </a> für die Bearbeitung der Übungsaufgaben zu nutzen, welches insbesondere auch Git unterstützt. Eine kurze Einleitung zu PyCharm befindet sich  hier.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cis-sp2122/cis-sp2021.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Am 21.12.2021 um 16:00 Uhr (letzte Vorlesung 2021) findet eine Probeklausur statt. Die Klausur hat eine Bearbeitungszeit von 45 Minuten und umfasst jeweils 4 Aufgaben zur Vorlesung und 4 Aufgaben zur Übung. Sie wird unter möglichst realen Bedingungen ausgeführt und die Abgabe erfolgt digital (siehe FAQ).
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Frequently asked questions
+
+
+
+
+
+
+
+
