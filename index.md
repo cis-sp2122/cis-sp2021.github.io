@@ -35,16 +35,38 @@ Am 21.12.2021 um 16:00 Uhr (letzte Vorlesung 2021) findet eine Probeklausur stat
 # Frequently asked questions
 
 
-Syllabus
+# Syllabus
 
-| Datum  | Python     | Vorlesung                         | Übung     |
-| :----- | :----------| :---------------------------------| :---------|
-| 19.10  | Grundlagen | Intro, Python basics, Pyton Tests | Git Intro |
+| Datum  | Python     | Folien                                     | Hausaufgabe | Material |
+| :----- | :----------| :------------------------------------------| :-----------|          |
+| 19.10  | Grundlagen | Intro <br> Python basics <br> Python Tests | Git Intro   |          |
+| 21.10  | Grundlagen | Git Intro                                  | HA 1        |          |      
+| 26.10  | Objektorientierung | Python Listen; Objektorientierung  | Git Intro   |          |
 
 
 
 
 
+
+
+
+	Python	Vorlesung	Uebung
+
+26.10	Objektorientierung	Python Listen, Objektorientierung I	HA 1: git & tests
+2.11		Objektorientierung II & III; Dokumentenklasse	HA2: objektorientierung I
+9.11	Module und basic NLP 	NLTK I	HA3: objektorientierung II & III
+16.11		NLTK II & Spacy	HA4: nltk
+23.11		Syntax: Crawling & POS tagging	HA5:  hw4, bit of repitition
+30.11		Lexical Semantics: Wordnet	HA6: crawling and tagging
+7.12		Compositional Semantics: SRL, AMR, GKR, etc.	HA7: wordnet
+14.12		Document Semantics: tf-idf, search engine	HA8: srl, amr
+21.12		Probeklausur 	HA9: tf-idf, search engine
+11.1	Machine Learning	Machine Learning Intro: supervised and unsupervised learning	Probeklausur
+18.1		Klassifikation; Naïve Bayes	HA10: supervised k-means neighbors
+25.1		Clustering; k-means	HA11: Naïve bayes
+1.2		Zusammenfassung, Open questions	HA12: k-means unsupervised
+8.2		Klausur	
+![image](https://user-images.githubusercontent.com/88492223/128351588-ca1438eb-32f9-49f8-ae09-fc8f76c00e99.png)
 
 
 
