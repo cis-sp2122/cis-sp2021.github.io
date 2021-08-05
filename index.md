@@ -76,12 +76,38 @@ Am 21.12.2021 um 16:00 Uhr (letzte Vorlesung 2021) findet eine Probeklausur stat
 <TABLE BORDER="1">
 <CAPTION>Example 2:  ROWSPAN</CAPTION>
 <TR>
-<TD ROWSPAN="2">Grundlagen</TD> <TD>Intro <br> Python basics <br> Python Tests </TD> <TD></TD> <TD></TD>
+<TD> <TD ROWSPAN="2">Grundlagen</TD> <TD>Intro <br> Python basics <br> Python Tests </TD> <TD></TD> <TD></TD>
 </TR>
 <TR>
 <TD>Einführung in Git </TD> <TD>HA 1</TD> <TD></TD>
 </TR>
 </TABLE>
+  
+<TABLE BORDER="1"> 
+  <TR>
+    <TD> Datum </TD> <TD> Python </td> <td> Folien </td> <td> Hausaufgabe </td> <td> Material </td> 
+  <TR>
+    <TD> 19.10> </td> <TD> <TD ROWSPAN="2">Grundlagen</TD> <TD>Intro <br> Python basics <br> Python Tests </TD> <TD></TD> <TD></TD>
+  </TR>
+  <TR>
+    <td> 21.10 </td> <TD>Einführung in Git </TD> <TD>HA 1</TD> <TD></TD>
+  </TR>
+  <TR>
+    <TD> 26.10> </td> <TD> <TD ROWSPAN="4">Objektorientierung</TD> <TD>Intro <br> Python Listen <br> Objektorientierung I  </TD> <TD></TD> <TD></TD>
+  </TR>
+  <TR>
+    <td> 28.10 </td> <TD> Bespechung HA1 </TD> <TD>HA 2</TD> <TD></TD>
+  </TR>
+  <TR>
+    <td> 2.11 </td> <TD> Objektorientierung II <br> Dokumentenklasse </TD> <TD></TD> <TD></TD>
+  </TR>
+  <TR>
+    <td> 4.11 </td> <TD> Bespechung HA2 </TD> <TD>HA 3</TD> <TD></TD>
+  </TR>
+    
+</TABLE>
+    
+    
 
 
 
