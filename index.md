@@ -72,18 +72,41 @@ Am 21.12.2021 um 16:00 Uhr (letzte Vorlesung 2021) findet eine Probeklausur stat
 
 
 
+| Datum  | Folien                                      | Hausaufgabe | Material |
+| :----- | :------------------------------------------ | :-----------|:---------|
+| 19.10  | Intro <br> Python basics <br> Python Tests  |             |          |
+| 21.10  | Einführung in Git                           | HA 1        |          |      
+| 26.10  | Python Listen <br> Objektorientierung I     |             |          |
+| 28.10  | Bespechung HA1                              | HA 2        |          |
+| 2.11   | Objektorientierung II <br> Dokumentenklasse |             |          |
+| 4.11   | Bespechung HA2                              | HA 3        |          |
+| 9.11   | NLTK I                                      |             |          |
+| 11.11  | Bespechung HA3                              | HA 4        |          |
+| 16.11  | NLTK II <br> Spacy                          |             |          |
+| 18.11  | Bespechung HA4                              | HA 5        |          |
+| 23.11  | Syntax: POS tagging  <br> Crawling          |             |          |
+| 25.11  | Bespechung HA5                              | HA 6        |          |
+| 30.11  | Lexical Semantics: Wordnet                  |             |          |
+| 2.12   | Bespechung HA6                              | HA 7        |          |
+| 7.12   | Compositional Semantics: SRL, AMR, GKR      |             |          |
+| 9.12   | Bespechung HA7                              | HA 8        |          |
+| 14.12  | Document Semantics: tf-idf, search engine   |             |          |
+| 16.12  | Bespechung HA8                              | HA 9        |          |
+| 21.12  | Probeklausur                                |             |          |
+| 23.12  | Bespechung HA9                              |             |          |
+| 11.1   | Supervised and Unsupervised Learning        |             |          |
+| 13.1   | Bespechung Probeklausur                     | HA10        |          |
+| 18.1   | Klassifikation; Naïve Bayes                 |             |          |
+| 20.1   | Bespechung HA10                             | HA11        |          |
+| 25.1   | Clustering; k-means.                        |             |          |
+| 27.1   | Bespechung HA11                             | HA12        |          |
+| 1.2    | Zusammenfassung, QA Session                 |             |          |
+| 27.1   | Bespechung HA12                             |             |          |
+| 27.1   | Klausur                                     |             |          |
 
-<TABLE BORDER="1">
-<CAPTION>Example 2:  ROWSPAN</CAPTION>
-<TR>
-<TD> <TD ROWSPAN="2">Grundlagen</TD> <TD>Intro <br> Python basics <br> Python Tests </TD> <TD></TD> <TD></TD>
-</TR>
-<TR>
-<TD>Einführung in Git </TD> <TD>HA 1</TD> <TD></TD>
-</TR>
-</TABLE>
-  
-<TABLE BORDER="1"> 
+
+
+<TABLE> 
   <TR>
     <TD> <b>Datum </b> </TD> <TD> <b> Python </b> </td> <td> <b> Folien </b> </td> <td> <b> Hausaufgabe </b> </td> <td> <b> Material </b> </td> 
   <TR>
@@ -141,10 +164,10 @@ Am 21.12.2021 um 16:00 Uhr (letzte Vorlesung 2021) findet eine Probeklausur stat
     <td> 16.12 </td> <TD> Bespechung HA8 </TD> <TD>HA 9</TD> <TD></TD>
   </TR>
   <TR>
-    <td> 21.12 </td> <TD> Probeklausur </TD> <TD></TD> <TD></TD>
+    <td> 21.12 </td> <td> </td> <TD> Probeklausur </TD> <TD></TD> <TD></TD>
   </TR>
   <TR>
-    <td> 23.12 </td> <TD> Bespechung HA9 </TD> <TD></TD> <TD></TD>
+    <td> 23.12 </td> <td> </td> <TD> Bespechung HA9 </TD> <TD></TD> <TD></TD>
   </TR>
   <TR>
     <TD> 11.1 </td> <TD ROWSPAN="6">Machine Learning</TD> <TD> Supervised and Unsupervised Learning  </TD> <TD></TD> <TD></TD>
