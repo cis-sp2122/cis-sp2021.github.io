@@ -24,11 +24,11 @@ Die Klausur zur Vorlesung findet am Di. 8.2.2022 um 16:00 statt und dauert 45 Mi
 
 
 ## Verschiedenes
-Übungen sollen in Gruppen aus 2 oder 3 Teilnehmern bearbeitet werden. Hierzu benötigen alle Gruppenmitglieder einen gültigen Gitlab-Account des IFI. Mehr Informationen finden Sie <a href="https://www.rz.ifi.lmu.de/infos/gitlab_de.html"> hier </a>. Gruppen können sich über das Webformular anmelden.
+Übungen sollen in Gruppen aus 2 oder 3 Teilnehmern bearbeitet werden. Hierzu benötigen alle Gruppenmitglieder einen gültigen Gitlab-Account des IFI. Mehr Informationen finden Sie <a href="https://www.rz.ifi.lmu.de/infos/gitlab_de.html"> hier. </a> Gruppen können sich über das Webformular anmelden.
 
 Zur eigenständigen Vertiefung der Python-Grundkenntnisse wird dieses Online-Tutorial empfohlen: <a href="https://www.python-course.eu/python3_course.php"> Python Course </a>
 
-Es wird empfohlen die Entwicklungsumgebung <a href="https://www.jetbrains.com/pycharm/"> PyCharm </a> für die Bearbeitung der Übungsaufgaben zu nutzen, welches insbesondere auch Git unterstützt. Eine kurze Einleitung zu PyCharm befindet sich  hier.
+Es wird empfohlen die Entwicklungsumgebung <a href="https://www.jetbrains.com/pycharm/"> PyCharm </a> für die Bearbeitung der Übungsaufgaben zu nutzen, welches insbesondere auch Git unterstützt. Eine kurze Einleitung zu PyCharm befindet sich <a href="https://github.com/cis-sp2122/cis-sp2122.github.io/blob/gh-pages/pycharm.pdf"> hier. </a>
 
 Am 21.12.2021 um 16:00 Uhr (letzte Vorlesung 2021) findet eine Probeklausur statt. Die Klausur hat eine Bearbeitungszeit von 45 Minuten und umfasst jeweils 4 Aufgaben zur Vorlesung und 4 Aufgaben zur Übung. Sie wird unter möglichst realen Bedingungen ausgeführt und die Abgabe erfolgt digital (siehe FAQ).
 
