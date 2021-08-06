@@ -34,7 +34,7 @@ Am 21.12.2021 um 16:00 Uhr (letzte Vorlesung 2021) findet eine Probeklausur stat
 
 
 ## Frequently asked questions
-<a href="/faq.md"> FAQ </a>
+<a href="/faq.html"> FAQ </a>
 
 ## Syllabus
 
