@@ -33,7 +33,7 @@ Es wird empfohlen die Entwicklungsumgebung <a href="https://www.jetbrains.com/py
 Am 21.12.2021 um 16:00 Uhr (letzte Vorlesung 2021) findet eine Probeklausur statt. Die Klausur hat eine Bearbeitungszeit von 45 Minuten und umfasst jeweils 4 Aufgaben zur Vorlesung und 4 Aufgaben zur Übung. Sie wird unter möglichst realen Bedingungen ausgeführt und die Abgabe erfolgt digital (siehe FAQ).
 
 
-# Frequently asked questions
+## Frequently asked questions
 <a href="/faq.html"> FAQ </a>
 
 # Syllabus
