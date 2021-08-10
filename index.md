@@ -43,7 +43,7 @@ Am 21.12.2021 um 16:00 Uhr (letzte Vorlesung 2021) findet eine Probeklausur stat
 | :----- | :------------------------------------------ | :------------------------------------|:---------|
 | 19.10  | Intro <br> Python basics <br> Python Tests  |                                      |          |
 | 21.10  |                                             | Einführung in Git <br> HA1           |          |      
-| 26.10  | Python Listen <br> Objektorientierung I     |                                      |          |
+| 26.10  | Objektorientierung I                        |                                      |          |
 | 28.10  |                                             | Bespechung HA1 <br> HA 2             |          |
 | 2.11   | Objektorientierung II <br> Dokumentenklasse |                                      |          |
 | 4.11   |                                             | Bespechung HA2 <br> HA 2             |          |
