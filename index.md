@@ -46,19 +46,19 @@ Am 21.12.2021 um 16:00 Uhr (letzte Vorlesung 2021) findet eine Probeklausur stat
 | 26.10  | Objektorientierung I                                                |                                      |          |
 | 28.10  |                                                                     | Bespechung HA1 <br> HA 2             |          |
 | 2.11   | Objektorientierung II <br> Dokumentenklasse                         |                                      |          |
-| 4.11   |                                                                     | Bespechung HA2 <br> HA 2             |          |
+| 4.11   |                                                                     | Bespechung HA2 <br> HA 3             |          |
 | 9.11   | NLTK: Corpus Linguistics                                            |                                      |          |
-| 11.11  |                                                                     | Bespechung HA3 <br> HA 2             |          |
+| 11.11  |                                                                     | Bespechung HA3 <br> HA 4             |          |
 | 16.11  | NLTK: Preprocessing                                                 |                                      |          |
-| 18.11  |                                                                     | Bespechung HA4 <br> HA 2             |          |
+| 18.11  |                                                                     | Bespechung HA4 <br> HA 5             |          |
 | 23.11  | Syntax: POS tagging                                                 |                                      |          |
-| 25.11  |                                                                     | Bespechung HA5 <br> HA 2             |          |
+| 25.11  |                                                                     | Bespechung HA5 <br> HA 6             |          |
 | 30.11  | Lexical Semantics: Wordnet                                          |                                      |          |
-| 2.12   |                                                                     | Bespechung HA6 <br> HA 2             |          |
+| 2.12   |                                                                     | Bespechung HA6 <br> HA 7             |          |
 | 7.12   | Distributional Semantics: word2vec, GloVe                           |                                      |          |
-| 9.12   |                                                                     | Bespechung HA7 <br> HA 2             |          |
+| 9.12   |                                                                     | Bespechung HA7 <br> HA 8             |          |
 | 14.12  | Document-level Processing:Crawling <br> tf-idf <br> search engine   |                                      |          |
-| 16.12  |                                                                     | Bespechung HA8 <br> HA 2             |          |
+| 16.12  |                                                                     | Bespechung HA8 <br> HA 9             |          |
 | 21.12  | Probeklausur                                                        |                                      |          |
 | 23.12  |                                                                     | Bespechung HA9                       |          |
 | 11.1   | Supervised and Unsupervised Learning                                |                                      |          |
