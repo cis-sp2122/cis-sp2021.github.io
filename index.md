@@ -39,37 +39,37 @@ Am 21.12.2021 um 16:00 Uhr (letzte Vorlesung 2021) findet eine Probeklausur stat
 ## Syllabus
 
 
-| Datum  | Folien                                      | Hausaufgabe | Material |
-| :----- | :------------------------------------------ | :------------------------------------|:---------|
-| 19.10  | Intro <br> Python basics <br> Python Tests  |                                      |          |
-| 21.10  |                                             | Einführung in Git <br> HA1           |          |      
-| 26.10  | Objektorientierung I                        |                                      |          |
-| 28.10  |                                             | Bespechung HA1 <br> HA 2             |          |
-| 2.11   | Objektorientierung II <br> Dokumentenklasse |                                      |          |
-| 4.11   |                                             | Bespechung HA2 <br> HA 2             |          |
-| 9.11   | NLTK I                                      |                                      |          |
-| 11.11  |                                             | Bespechung HA3 <br> HA 2             |          |
-| 16.11  | NLTK II <br> Spacy                          |                                      |          |
-| 18.11  |                                             | Bespechung HA4 <br> HA 2             |          |
-| 23.11  | Syntax: POS tagging  <br> Crawling          |                                      |          |
-| 25.11  |                                             | Bespechung HA5 <br> HA 2             |          |
-| 30.11  | Lexical Semantics: Wordnet                  |                                      |          |
-| 2.12   |                                             | Bespechung HA6 <br> HA 2             |          |
-| 7.12   | Compositional Semantics: SRL, AMR, GKR      |                                      |          |
-| 9.12   |                                             | Bespechung HA7 <br> HA 2             |          |
-| 14.12  | Document Semantics: tf-idf, search engine   |                                      |          |
-| 16.12  |                                             | Bespechung HA8 <br> HA 2             |          |
-| 21.12  | Probeklausur                                |                                      |          |
-| 23.12  |                                             | Bespechung HA9                       |          |
-| 11.1   | Supervised and Unsupervised Learning        |                                      |          |
-| 13.1   |                                             | Bespechung Probeklausur <br> HA 10   |          |
-| 18.1   | Klassifikation; Naïve Bayes                 |                                      |          |
-| 20.1   |                                             | Bespechung HA10 <br> HA 11           |          |
-| 25.1   | Clustering; k-means.                        |                                      |          |
-| 27.1   |                                             | Bespechung HA11 <br> HA 12           |          |
-| 1.2    | Zusammenfassung, QA Session                 |                                      |          |
-| 27.1   |                                             | Bespechung HA12                      |          |
-| 27.1   | Klausur                                     |                                      |          |
+| Datum  | Vorlesung                                                           | Übung                                | Material |
+| :----- | :------------------------------------------------------------------ | :------------------------------------|:---------|
+| 19.10  | Intro <br> Python basics <br> Python Tests                          |                                      |          |
+| 21.10  |                                                                     | Einführung in Git <br> HA1           |          |      
+| 26.10  | Objektorientierung I                                                |                                      |          |
+| 28.10  |                                                                     | Bespechung HA1 <br> HA 2             |          |
+| 2.11   | Objektorientierung II <br> Dokumentenklasse                         |                                      |          |
+| 4.11   |                                                                     | Bespechung HA2 <br> HA 2             |          |
+| 9.11   | NLTK: Corpus Linguistics                                            |                                      |          |
+| 11.11  |                                                                     | Bespechung HA3 <br> HA 2             |          |
+| 16.11  | NLTK: Preprocessing                                                 |                                      |          |
+| 18.11  |                                                                     | Bespechung HA4 <br> HA 2             |          |
+| 23.11  | Syntax: POS tagging                                                 |                                      |          |
+| 25.11  |                                                                     | Bespechung HA5 <br> HA 2             |          |
+| 30.11  | Lexical Semantics: Wordnet                                          |                                      |          |
+| 2.12   |                                                                     | Bespechung HA6 <br> HA 2             |          |
+| 7.12   | Distributional Semantics: word2vec, GloVe                           |                                      |          |
+| 9.12   |                                                                     | Bespechung HA7 <br> HA 2             |          |
+| 14.12  | Document-level Processing:Crawling <br> tf-idf <br> search engine   |                                      |          |
+| 16.12  |                                                                     | Bespechung HA8 <br> HA 2             |          |
+| 21.12  | Probeklausur                                                        |                                      |          |
+| 23.12  |                                                                     | Bespechung HA9                       |          |
+| 11.1   | Supervised and Unsupervised Learning                                |                                      |          |
+| 13.1   |                                                                     | Bespechung Probeklausur <br> HA 10   |          |
+| 18.1   | Klassifikation; Naïve Bayes                                         |                                      |          |
+| 20.1   |                                                                     | Bespechung HA10 <br> HA 11           |          |
+| 25.1   | Clustering; k-means.                                                |                                      |          |
+| 27.1   |                                                                     | Bespechung HA11 <br> HA 12           |          |
+| 1.2    | Zusammenfassung, QA Session                                         |                                      |          |
+| 27.1   |                                                                     | Bespechung HA12                      |          |
+| 27.1   | Klausur                                                             |                                      |          |
 
 
 
