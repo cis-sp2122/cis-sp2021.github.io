@@ -55,20 +55,20 @@ Am 21.12.2021 um 16:00 Uhr (letzte Vorlesung 2021) findet eine Probeklausur stat
 | 25.11  |                                                                     | Bespechung HA5 <br> HA 6             |          |
 | 30.11  | Lexical Semantics: Wordnet                                          |                                      |          |
 | 2.12   |                                                                     | Bespechung HA6 <br> HA 7             |          |
-| 7.12   | Distributional Semantics: word2vec, GloVe                           |                                      |          |
+| 7.12   | Document-level Processing:Crawling <br> tf-idf <br> search engine   |                                      |          |
 | 9.12   |                                                                     | Bespechung HA7 <br> HA 8             |          |
-| 14.12  | Document-level Processing:Crawling <br> tf-idf <br> search engine   |                                      |          |
+| 14.12  | Machine Learning <br> Clustering                                    |                                      |          |
 | 16.12  |                                                                     | Bespechung HA8 <br> HA 9             |          |
-| 21.12  | Probeklausur                                                        |                                      |          |
-| 23.12  |                                                                     | Bespechung HA9                       |          |
-| 11.1   | Supervised and Unsupervised Learning                                |                                      |          |
-| 13.1   |                                                                     | Bespechung Probeklausur <br> HA 10   |          |
-| 18.1   | Klassifikation; Naïve Bayes                                         |                                      |          |
-| 20.1   |                                                                     | Bespechung HA10 <br> HA 11           |          |
-| 25.1   | Clustering; k-means.                                                |                                      |          |
-| 27.1   |                                                                     | Bespechung HA11 <br> HA 12           |          |
-| 1.2    | Zusammenfassung, QA Session                                         |                                      |          |
+| 21.12  | 45min Probeklausur \& 45min Besprechung                             |                                      |          |
+| 23.12  |                                                                     | Bespechung HA9 <br> HA 10            |          |
+| 11.1   | Classifikation: kNN \& Probability Theory                           |                                      |          |
+| 13.1   |                                                                     | Bespechung HA10 <br> HA 11           |          |
+| 18.1   | Naïve Bayes Classification                                          |                                      |          |
+| 20.1   |                                                                     | Bespechung HA11 <br> HA 12           |          |
+| 25.1   | HMM?                                                                |                                      |          |
 | 27.1   |                                                                     | Bespechung HA12                      |          |
+| 1.2    | Zusammenfassung, QA Session                                         |                                      |          |
+| 27.1   |                                                                     | More QA, if required                 |          |
 | 27.1   | Klausur                                                             |                                      |          |
 
 
